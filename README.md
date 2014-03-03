@@ -1,5 +1,7 @@
-<div style="text-align:center;"><h3>Attending to Threat: Race-based Patterns of Selective Attention</h3>
-<h4>A replication of Trawalter, Todd, Baird, & Richeson's (2008) design that includes a control for color as a disjunctive feature</h4></div>
+<h3>Attending to Threat: Race-based Patterns of Selective Attention</h3>
+<h4>A replication of Trawalter, Todd, Baird, & Richeson's (2008) design that includes a control for color as a disjunctive feature</h4>
+
+A working example can be found at: http://graemeboy.com/trawalter/
 
 There is overwhelming behavioral and physiological evidence that Black men are stereotyped as violent and dangerous (Cottrell & Neuberg, 2005; Maner, Kenrick, Neuberg, Becker, Robertson, Hofer, et al., 2005). On this basis, Trawalter, Todd, Baird and Richeson (2008) hypothesized that if a Black man's face were flashed alongside a White man's face on a gray homogenous background, a subject would pay attention sooner to the Black man's face than the White man's face. The responses were measured using a dot-probe: After the images flashed, a dot appeared in the place of either one of the images, either on the left, or on the right. Subjects were asked to indicate, as quickly as possible, on which side the dot appeared. If the subject had been attending to one image more than the other, this would be reflected in a decreased response time when the dot appeared after that image.
 
