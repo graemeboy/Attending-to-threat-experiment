@@ -4,7 +4,6 @@
     <title>Experimental Environment</title>
     <!-- Bootstrap -->
     <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="bootstrap/js/bootstrap.min.js"></script>
     <script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
   </head>
@@ -12,7 +11,7 @@
   <div class="container-fluid">
 	    <div class="hero-unit" style="text-align: center;">
 	    	<h3><a href="/">Attending to Threat: Race-based Patterns of Selective Attention</a></h3>
-	    	<p>A replication of Trawalter, Todd, Baird, & Richeson's (2008) design that includes a control for <strong><span style="color:#00a368">c</span><span style="color:#ffd300">o</span><span style="color:#c40233">l</span><span style="color:#0088bf">o</span><span style="color:#ce0064">r</span></strong> as a disjunctive feature</p>
+	    	<p>A replication of Trawalter, Todd, Baird, & Richeson\'s (2008) design that includes a control for <strong><span style="color:#00a368">c</span><span style="color:#ffd300">o</span><span style="color:#c40233">l</span><span style="color:#0088bf">o</span><span style="color:#ce0064">r</span></strong> as a disjunctive feature</p>
 	    	<p>Graeme Boy, 2012</p>
 	    	<p>Grinnell College</p>
 	    </div>
